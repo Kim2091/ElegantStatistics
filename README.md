@@ -1,4 +1,4 @@
-## ElegantRTSS
+## ElegantStatistics
 
 This is a heavily customized fork of an older version of [ElegantMustard](https://github.com/lscambo13/ElegantMustard).
 
