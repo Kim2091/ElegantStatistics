@@ -1,6 +1,6 @@
 ## TechnicalMustard
 
-This is a heavily customized fork of an older version of ElegantMustard.
+This is a heavily customized fork of an older version of [ElegantMustard](https://github.com/lscambo13/ElegantMustard).
 
 ### Preview
 ![image](https://github.com/user-attachments/assets/229fd1f2-d803-4960-833a-eaa54b1616c3)
