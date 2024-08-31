@@ -6,10 +6,11 @@ This is a heavily customized fork of an older version of [ElegantMustard](https:
 ![image](https://github.com/user-attachments/assets/229fd1f2-d803-4960-833a-eaa54b1616c3)
 
 ### Installation
-1. Open MSI Afterburner
-2. Navigate to Settings
-3. Go to the Monitoring tab
-4. In the Monitoring tab:
+1. Download the ovx file you want from the repository
+2. Open MSI Afterburner
+3. Navigate to Settings
+4. Go to the Monitoring tab
+5. In the Monitoring tab:
 
    a. Select the first option
 
@@ -19,10 +20,10 @@ This is a heavily customized fork of an older version of [ElegantMustard](https:
 
    d. Press the checkmark on the left to enable all options
 
-5. Open Rivatuner Statistics Server
-6. Go to Setup
-7. Navigate to Plugins
-8. In the Plugins section:
+6. Open Rivatuner Statistics Server
+7. Go to Setup
+8. Navigate to Plugins
+9. In the Plugins section:
 
    a. Double-click OverlayEditor.dll
    
